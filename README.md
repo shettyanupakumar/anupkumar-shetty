@@ -1,32 +1,20 @@
+<h1 align="center">Hi 👋, I'm Anupkumar Shetty</h1>
+<h3 align="center">Information Science Engineering Student | Aspiring Software Engineer | Cloud & Data Enthusiast</h3>
 
-# Anup Kumar Shetty
+- 🔭 I'm currently working on **cloud computing with AWS, Python projects, and full-stack web development.**
 
-### Information Science Engineering Student | Aspiring Software Engineer
+- 🌱 I’m currently learning **🌱 I’m currently learning AWS, Python, Data Engineering, and Full-Stack Web Development.**
 
-I'm an engineering student passionate about software development, cloud computing, and data engineering. I enjoy building practical projects and continuously improving my technical skills.
+- 💬 Ask me about **Python, SQL, Web Development, AWS, azure**
 
-## About Me
+- 📫 How to reach me **https://www.linkedin.com/in/anupkumar-shetty-8b443a3b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
-- Pursuing B.Tech in Information Science
-- Interested in Software Development and Data Engineering
-- Learning AWS, Linux, and Python
-- Focused on building real-world projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Technical Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-**Languages:** Python, Java, JavaScript, SQL
-
-**Web Development:** HTML, CSS, JavaScript
-
-**Cloud & Tools:** AWS, Linux, Git, GitHub, Docker
-
-**Data & AI:** NumPy, Pandas, Computer Vision
-
-## Projects
-
-- **Skylark AI Agent** — AI-powered business intelligence agent
-- **Creative Digital Solutions** — Web development project
-- **Calculator** — JavaScript-based calculator
-- **Internship Tasks** — Web development practice projects
 
 
